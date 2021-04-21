@@ -50,7 +50,7 @@ application are detailed below:
 
 ### (D) Next Steps
 
-- In a text file, describe future improvements or additions you would make to
+- In a text file (see: `task-d.md`), describe future improvements or additions you would make to
   the automated testing system for this project.
 - If you have time, implement some or all of these recommendations.
 
